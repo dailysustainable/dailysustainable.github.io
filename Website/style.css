@@ -1,0 +1,153 @@
+html,body{
+	background-color: #dce2e1;
+	}
+	
+#body{
+	width: 800px;
+	height: auto;
+	margin: 30px auto 30px auto;
+	padding: 10px 30px 10px 30px;
+	border-color: grey;
+	border-width: 1px;
+	border-style: solid;
+	background: white;
+	}
+	
+#header{
+	width: 800px;
+	height:auto;
+	margin: 10px auto 10px auto;
+	padding: 10px 0px 10px 0px;
+	border-color: red;
+	border-width: 0px;
+	border-style: solid;
+	vertical-align: middle;
+	background-color: white;
+	}
+
+	#bild{
+		margin: 0px auto 0px auto;
+		padding: 0px auto 0px auto;
+		border-width:0px;
+		border-color: black;
+		border-style: solid;
+		}
+	
+#nav{
+	width: 770px;
+	height: auto;
+	margin: auto 0px auto 17px;
+	border-color: green;
+	border-width: 0px;
+	border-style: solid;
+	text-align:left;
+	background: white;
+	
+	}
+	
+	#subnav{
+		width: 730px;
+		font-family: trebuchet MS, "Arial", sans-serif;
+		background-color: #EDEDED;
+		text-align: center;
+		}
+		
+p{
+	font-family: trebuchet MS, "Arial", sans-serif;
+	text-align: justify;
+	}
+	
+li{
+	font-family: trebuchet MS, "Arial", sans-serif;
+	}
+	
+#main{
+	width: 750px;
+	height: auto;
+	margin: 10px auto 10px auto;
+	padding: 10px 10px 10px 10px;
+	border-color: purple;
+	border-width: 0px;
+	border-style: solid;
+	background-color: white;
+	}
+	
+	#post{
+		width: 720px;
+		height: auto;
+		margin: 2px auto 2px auto;
+		padding: 2px 2px 2px 2px;
+		border-color: black;
+		border-width: 0px;
+		border-style: solid;
+		vertical-align: middle;
+		background-color: white;
+		}
+	
+#footer{
+	width: 750px;
+	height: auto;
+	margin: 10px auto 10px auto;
+	padding: 10px 10px 10px 10px;
+	border-color: grey;
+	border-width: 0px;
+	border-style: solid;
+	font-family: trebuchet MS, "Arial", sans-serif;
+	text-align:right;
+	background-color: white;
+	}
+
+	h1 {
+		font-family: trebuchet MS, "Arial", sans-serif;
+		font-size: 30px;
+		color: #4974ba;
+		}
+
+	h2{
+		font-family: trebuchet MS, "Arial", sans-serif;
+		font-size: 24px;
+		color: #4974ba;
+		}
+	
+	h3{
+		font-family: trebuchet MS, "Arial", sans-serif;
+		font-size: 18px;
+		font-style: italic;
+		color: #4974ba;
+		}
+	
+#vorschau{
+	margin: 14px 5px 0px 0px;
+	padding: 0px 0px 0px 5px;
+	}
+
+#picture{
+	margin: 0px 25px 0px 25px;
+	}
+
+#pic{
+	margin: 0px 0px 0px 0px;
+	}
+		
+#video{
+	width: 640px;
+	height: 360px;
+	margin: 0px 55px 0px 55px;
+	}
+	
+#titel{
+	margin: 0px 160px 0px 160px;
+	}
+	
+#top{
+    font-family: trebuchet MS, "Arial", sans-serif;  
+	}
+
+#quelle{
+	text-align: right;
+	font-size: 10px;
+	font-family: trebuchet MS, "Arial", sans-serif;
+	font-style: italic;
+	color: grey;
+	margin: 2px 60px 5px auto;
+	}
